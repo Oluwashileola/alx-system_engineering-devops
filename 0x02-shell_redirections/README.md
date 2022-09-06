@@ -3,3 +3,4 @@ Each script in this directory starts with a number and this readme will represen
 0-hello_world prints "Hello world"
 1- prints a confused smiley
 2- prints content of /etc/passwd
+3- Displays content of /etc/passwd and /etc/hosts
