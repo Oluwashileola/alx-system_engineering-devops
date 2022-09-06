@@ -5,3 +5,4 @@ Each script in this directory starts with a number and this readme will represen
 2- prints content of /etc/passwd
 3- Displays content of /etc/passwd and /etc/hosts
 4- Displays the last 10 lines of /etc/passwd
+5- Displays the first 10 lines of /etc/passwd
