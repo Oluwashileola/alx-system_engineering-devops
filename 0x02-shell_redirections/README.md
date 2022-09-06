@@ -9,3 +9,4 @@ Each script in this directory starts with a number and this readme will represen
 6- Displays 3rd line of iacta file
 7- Creates long file containing Best School
 8 - Displays ls -la into ls_cwd_content
+9- Duplicates last line of iacta file into iacta
